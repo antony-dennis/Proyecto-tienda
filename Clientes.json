@@ -1,0 +1,7 @@
+[
+    {"ci":0,"Nombre":"Roberto","Apellido":"Martines","Fecha_Nac":"03/03/1998","Telefono":"099817280","ID_Cliente":"A0"},
+    {"ci":1,"Nombre":"Camila","Apellido":"Peres","Fecha_Nac":"03/03/1998","Telefono":"099817281","ID_Cliente":"A1"},
+    {"ci":2,"Nombre":"Mauri","Apellido":"Bruno","Fecha_Nac":"03/03/1998","Telefono":"099817282","ID_Cliente":"A2"},
+    {"ci":3,"Nombre":"Alex","Apellido":"Blanco","Fecha_Nac":"03/03/1998","Telefono":"099817283","ID_Cliente":"A3"},
+    {"ci":4,"Nombre":"Franco","Apellido":"Ribero","Fecha_Nac":"03/03/1998","Telefono":"099817284","ID_Cliente":"A4"}
+]

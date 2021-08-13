@@ -1,0 +1,7 @@
+[
+    {"codigo_producto":1,"cantidad":30,"probedor":"ingco","Nombre":"Taladro","Costo":30,"Costo_probedor":15},
+    {"codigo_producto":2,"cantidad":30,"probedor":"ingco","Nombre":"Marrtillo","Costo":10,"Costo_probedor":5},
+    {"codigo_producto":3,"cantidad":30,"probedor":"ingco","Nombre":"Destornillador","Costo":5,"Costo_probedor":1},
+    {"codigo_producto":4,"cantidad":30,"probedor":"ingco","Nombre":"Amoladora","Costo":60,"Costo_probedor":40},
+    {"codigo_producto":5,"cantidad":30,"probedor":"ingco","Nombre":"Pala","Costo":15,"Costo_probedor":10}
+]

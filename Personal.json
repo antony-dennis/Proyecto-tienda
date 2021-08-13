@@ -1,0 +1,5 @@
+[
+    {"ci":5,"Nombre":"Martin","Apellido":"Blanch","Fecha_Nac":"03/03/1998","Telefono":"099817285","Codigo_E":"E1","Cargo":"Importacion","Sueldo":"1000","Contraseña":"MartinE1"},
+    {"ci":6,"Nombre":"Gaston","Apellido":"Fierro","Fecha_Nac":"03/03/1998","Telefono":"099817286","Codigo_E":"E2","Cargo":"Servicios","Sueldo":"1000","Contraseña":"GastonE2"},
+    {"ci":7,"Nombre":"Antony","Apellido":"Rosa","Fecha_Nac":"03/03/1998","Telefono":"099817288","Codigo_E":"E0","Cargo":"Dueño","Sueldo":"5000","Contraseña":"Root"}
+]
